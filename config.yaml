@@ -1,0 +1,8 @@
+api_key: "YOUR_TD_AMERITRADE_API_KEY"
+redirect_uri: "http://localhost"
+account_id: "YOUR_ACCOUNT_ID"
+symbols:
+  - BITO
+  - ETHO
+  - SOLX
+trade_amount: 1000
